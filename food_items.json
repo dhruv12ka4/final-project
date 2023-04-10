@@ -1,0 +1,1 @@
+{'menu items': [{'ID': 1, 'name': 'tandoori chicken', 'quantity': '4 pieces', 'price': 240.0, 'discount': 0.0, 'stock': 10}, {'ID': 2, 'name': 'vegan burger', 'quantity': '1 piece', 'price': 320.0, 'discount': 0.0, 'stock': 20}, {'ID': 3, 'name': 'truffle cake', 'quantity': '500gm', 'price': 900.0, 'discount': 0.0, 'stock': 10}]}
